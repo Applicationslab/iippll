@@ -1,1 +1,181 @@
-hxfhxdnhxed
+[{
+		"fastTeam": "Chennai Super Kings",
+		"secondTeam": "Mumbai Indians",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313421.logo.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317900/317995.png",
+		"date": "sun, 19 sep, 7:00 am"
+	}, {
+		"fastTeam": "Kolkata Knight Riders",
+		"secondTeam": "Royal Challengers Bangalore",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313419.logo.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313418.logo.png",
+		"date": "mon, 20 sep, 7:00 am"
+	}, {
+		"fastTeam": "Punjab Kings",
+		"secondTeam": "Rajasthan Royals",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317000/317003.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313423.logo.png",
+		"date": "tues, 21 sep, 7:00 am"
+	}, {
+		"fastTeam": "Delhi Capitals",
+		"secondTeam": "Sunrisers Hyderabad",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313422.logo.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313480.logo.png",
+		"date": "wed, 22 sep, 7:00 am"
+	}, {
+		"fastTeam": "Mumbai Indians",
+		"secondTeam": "Kolkata Knight Riders",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317900/317995.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313419.logo.png",
+		"date": "thu, 23 sep, 7:00 am"
+	}, {
+		"fastTeam": "Royal Challengers Bangalore",
+		"secondTeam": "Chennai Super Kings",
+		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313418.logo.png",
+		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313421.logo.png",
+		"date": "fri, 24 sep, 7:00 am"
+	}, {
+		"fastTeam": "Delhi Capitals",
+		"secondTeam": "Rajasthan Royals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sat, 25 sep, 3:00 am"
+	}, {
+		"fastTeam": "Sunrisers Hyderabad",
+		"secondTeam": "Punjab Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sat, 25 sep, 7:00 am"
+	}, {
+		"fastTeam": "Chennai Super Kings",
+		"secondTeam": "Kolkata Knight Riders",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sun, 26 sep, 3:00 am"
+	}, {
+		"fastTeam": "Royal Challengers Bangalore",
+		"secondTeam": "Mumbai Indians",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sun, 26 sep, 7:00 am"
+	}, {
+		"fastTeam": "Sunrisers Hyderabad",
+		"secondTeam": "Rajasthan Royals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "mon, 27 sep, 7:00 am"
+	}, {
+		"fastTeam": "Kolkata Knight Riders",
+		"secondTeam": "Delhi Capitals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "tues, 28 sep, 3:00 am"
+	}, {
+		"fastTeam": "Mumbai Indians",
+		"secondTeam": "Punjab Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "tues, 28 sep, 7:00 am"
+	}, {
+		"fastTeam": "Rajasthan Royals",
+		"secondTeam": "Royal Challengers Bangalore",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "wed, 29 sep, 7:00 am"
+	}, {
+		"fastTeam": "Sunrisers Hyderabad",
+		"secondTeam": "Chennai Super Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "thu, 30 sep, 7:00 am"
+	}, {
+		"fastTeam": "Kolkata Knight Riders",
+		"secondTeam": "Punjab Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "fri, 01 oct, 7:00 am"
+	}, {
+		"fastTeam": "Mumbai Indians",
+		"secondTeam": "Delhi Capitals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sat, 02 oct, 3:00 am"
+	}, {
+		"fastTeam": "Rajasthan Royals",
+		"secondTeam": "Chennai Super Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sat, 02 oct, 7:00 am"
+	}, {
+		"fastTeam": "Royal Challengers Bangalore",
+		"secondTeam": "Punjab Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sun, 03 oct, 3:00 am"
+	}, {
+		"fastTeam": "Kolkata Knight Riders",
+		"secondTeam": "Sunrisers Hyderabad",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "sun, 03 oct, 7:00 am"
+	}, {
+		"fastTeam": "Delhi Capitals",
+		"secondTeam": "Chennai Super Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "mon, 04 oct, 7:00 am"
+	}, {
+		"fastTeam": "Rajasthan Royals",
+		"secondTeam": "Mumbai Indians",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "tues, 05 oct, 7:00 am"
+	}, {
+		"fastTeam": "Royal Challengers Bangalore",
+		"secondTeam": "Sunrisers Hyderabad",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "wed, 06 oct, 7:00 am"
+	}, {
+		"fastTeam": "Chennai Super Kings",
+		"secondTeam": "Punjab Kings",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "thu, 07 oct, 3:00 am"
+	}, {
+		"fastTeam": "Kolkata Knight Riders",
+		"secondTeam": "Rajasthan Royals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "thu, 07 oct, 7:00 am"
+	}, {
+		"fastTeam": "Sunrisers Hyderabad",
+		"secondTeam": "Mumbai Indians",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "fri, 08 oct, 3:00 am"
+	}, {
+		"fastTeam": "Royal Challengers Bangalore",
+		"secondTeam": "Delhi Capitals",
+		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
+		"date": "fri, 08 oct, 7:00 am"
+	}, {
+		"fastTeam": "TBA",
+		"secondTeam": "TBA",
+		"date": "sun, 10 oct, 7:00 am"
+	}, {
+		"fastTeam": "TBA",
+		"secondTeam": "TBA",
+		"date": "mon, 11 oct, 7:00 am"
+	}, {
+		"fastTeam": "TBA",
+		"secondTeam": "TBA",
+		"date": "wed, 13 oct, 7:00 am"
+	}, {
+		"fastTeam": "TBA",
+		"secondTeam": "TBA",
+		"date": "fri, 15 oct, 7:00 am"
+	}
+
+]
