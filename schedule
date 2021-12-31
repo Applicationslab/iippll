@@ -1,165 +1,101 @@
 [{
 		"fastTeam": "Mumbai Indians",
 		"secondTeam": "Kolkata Knight Riders",
-		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317900/317995.png",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
 		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313419.logo.png",
-		"date": "KKR won by 7 wickets",
+		"date": "Apr 02, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8whsf6j;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
-		"fastTeam": "Royal Challengers Bangalore",
+		"fastTeam": "Royal Challengers",
 		"secondTeam": "Chennai Super Kings",
-		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313418.logo.png",
-		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313421.logo.png",
-		"date": "24 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
+		"date": "Apr 03, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdq9xt;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Delhi Capitals",
 		"secondTeam": "Rajasthan Royals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "25 sep, 3:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png",
+		"secondTeamImage": "https://www.soaringsixes.in/wmsimages/rajasthan.png",
+		"date": "Apr 04, 02:00 PMpm",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdng8p;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Sunrisers Hyderabad",
 		"secondTeam": "Punjab Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "25 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/1/1c/Punjab_Kings_logo_2021.png",
+		"date": "Apr 05, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdj_cp;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Chennai Super Kings",
 		"secondTeam": "Kolkata Knight Riders",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "26 sep, 3:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+		"date": "Apr 06, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdqth0;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
-		"fastTeam": "Royal Challengers Bangalore",
+		"fastTeam": "Royal Challengers",
 		"secondTeam": "Mumbai Indians",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "26 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
+		"date": "Apr 07, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxskpzlc;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Sunrisers Hyderabad",
 		"secondTeam": "Rajasthan Royals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "27 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
+		"secondTeamImage": "https://www.soaringsixes.in/wmsimages/rajasthan.png",
+		"date": "Apr 08, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxskph95;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Kolkata Knight Riders",
 		"secondTeam": "Delhi Capitals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "28 sep, 3:00 am",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png",
+		"date": "Apr 09, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxsks048;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Mumbai Indians",
 		"secondTeam": "Punjab Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "28 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/1/1c/Punjab_Kings_logo_2021.png",
+		"date": "Apr 10, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wjjsw8;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Rajasthan Royals",
-		"secondTeam": "Royal Challengers Bangalore",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "29 sep, 7:00 pm",
+		"secondTeam": "Royal Challengers",
+		"fastTeamImage": "https://www.soaringsixes.in/wmsimages/rajasthan.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png",
+		"date": "Apr 11, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdv14b;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Sunrisers Hyderabad",
 		"secondTeam": "Chennai Super Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "30 sep, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
+		"date": "Apr 12, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdxqv0;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Kolkata Knight Riders",
 		"secondTeam": "Punjab Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "01 oct, 7:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/1/1c/Punjab_Kings_logo_2021.png",
+		"date": "Apr 13, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wjhvnd;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Mumbai Indians",
 		"secondTeam": "Delhi Capitals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "02 oct, 3:00 pm",
+		"fastTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png",
+		"date": "Apr 14, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdwfml;5;/m/03b_lm1;dt;fp;1;;"
 	}, {
 		"fastTeam": "Rajasthan Royals",
 		"secondTeam": "Chennai Super Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "02 oct, 7:00 pm",
+		"fastTeamImage": "https://www.soaringsixes.in/wmsimages/rajasthan.png",
+		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
+		"date": "Apr 15, 02:00 PM",
 		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wjn426;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Royal Challengers Bangalore",
-		"secondTeam": "Punjab Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "03 oct, 3:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wjfbp2;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Kolkata Knight Riders",
-		"secondTeam": "Sunrisers Hyderabad",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "03 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdw6pw;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Delhi Capitals",
-		"secondTeam": "Chennai Super Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "04 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxskxlh2;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Rajasthan Royals",
-		"secondTeam": "Mumbai Indians",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "05 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wj95hq;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Royal Challengers Bangalore",
-		"secondTeam": "Sunrisers Hyderabad",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "06 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11q8wjkmkx;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Chennai Super Kings",
-		"secondTeam": "Punjab Kings",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "07 oct, 3:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxsl1f9y;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Kolkata Knight Riders",
-		"secondTeam": "Rajasthan Royals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "07 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxskxd03;5;/m/03b_lm1;dt;fp;1;;"
-
-	}, {
-		"fastTeam": "Sunrisers Hyderabad",
-		"secondTeam": "Mumbai Indians",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "08 oct, 3:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxsl0q_7;5;/m/03b_lm1;dt;fp;1;;"
-	}, {
-		"fastTeam": "Royal Challengers Bangalore",
-		"secondTeam": "Delhi Capitals",
-		"fastTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"secondTeamImage": "https://wassets.hscicdn.com/static/images/lazyimage.png",
-		"date": "08 oct, 7:00 pm",
-		"url": "https://www.google.com/search?q=ipl+2021+schedule&sxsrf=ALeKk02RT5EZpKYpEPhF-0fQSiVRvgfqrw%3A1629962138335&ei=mj8nYYzxE-LU1sQPzsGumAE&oq=ipl+2021+sc&gs_lcp=Cgdnd3Mtd2l6EAEYADILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6CgguEMgDELADEEM6BAgjECc6BwgAELEDEEM6BAgAEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgUIIRCgAUoFCDgSATFKBAhBGABQhwdYjSBggidoAnACeACAAdoBiAHOBJIBBTAuMy4xmAEAoAEByAEPwAEB&sclient=gws-wiz#sie=m;/g/11rsfdp6nm;5;/m/03b_lm1;dt;fp;1;;"
 	}
 
 ]
