@@ -1,27 +1,4 @@
-[{
-		"fastTeam": "Chennai Super Kings",
-		"secondTeam": "Kolkata Knight Riders",
-		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313421.logo.png",
-		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313419.logo.png",
-		"date": "26 Mar, 7:30 pm",
-		"url": "https://www.google.com/search?q=ipl+schedule&oq=ipl+schedule&aqs=chrome.0.69i59j35i39j0i67i433j0i67j0i131i433i512j69i60l3.2678j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rr5w3nk0;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"fastTeam": "Delhi Capitals",
-		"secondTeam": "Mumbai Indians",
-		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313422.logo.png",
-		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317900/317995.png",
-		"date": "27 Mar, 3:30 pm",
-		"url": "https://www.google.com/search?q=ipl+schedule&oq=ipl+schedule&aqs=chrome.0.69i59j35i39j0i67i433j0i67j0i131i433i512j69i60l3.2678j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11sqtdx432;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"fastTeam": "Punjab Kings",
-		"secondTeam": "Royal Challengers Bangalore",
-		"fastTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/317000/317003.png",
-		"secondTeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_s_100/lsci/db/PICTURES/CMS/313400/313418.logo.png",
-		"date": "27 Mar, 7:30 pm",
-		"url": "https://www.google.com/search?q=ipl+schedule&oq=ipl+schedule&aqs=chrome.0.69i59j35i39j0i67i433j0i67j0i131i433i512j69i60l3.2678j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rr5w91bc;5;/m/03b_lm1;dt;fp;1;;"
-	},
+[
 	{
 		"fastTeam": "Gujarat Titans",
 		"secondTeam": "Lucknow Super Giants",
